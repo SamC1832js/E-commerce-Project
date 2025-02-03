@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SamC1832js/OrderServiceFrontEnd.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SamC1832js/OrderService.git
